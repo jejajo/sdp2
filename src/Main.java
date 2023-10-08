@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Order: " + food.getDescription());
         System.out.println("Cost: " + food.getCost() + " tenge");
 
+        System.out.println("Проверка github");
+
     }
 }
